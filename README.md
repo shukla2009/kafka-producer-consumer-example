@@ -17,7 +17,7 @@ run the command:
 if you have installed zookeeper, start it, or
 run the command:
 ``` sh
-bin/zookeeper-server-start.sh config/zookeeper.properties
+> bin/zookeeper-server-start.sh config/zookeeper.properties
 ```
 
 ### start kafka with default configuration
